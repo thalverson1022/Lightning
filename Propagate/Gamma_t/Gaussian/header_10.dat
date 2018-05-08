@@ -1,0 +1,21 @@
+2
+2
+0.1
+0.2
+10
+./Gamma_t/Guassian/Eigenvalues/t10/
+./Gamma_t/Guassian/Eigenvectors/t10/
+
+
+
+
+
+
+###### File Format #######
+<number of rotors>
+<L max truncation value>
+<gamma value>
+<delta t>
+<number of time steps>
+
+
