@@ -1,0 +1,21 @@
+./Basis_Sets/n4_L6_P.dat
+./Geometries/HF_tetra.dat
+./Parameters/HFs.dat
+./Eigenvalues/HFs_n4_L6_P_tetra.out
+./Eigenvectors/HFs_n4_L6_P_tetra.out
+
+
+
+
+
+
+
+
+
+FILE FORMAT
+---------------------------
+<Many Particle Basis Set Filename>
+<Gemotries Filename>
+<System paramters Filename> 
+<Rotational Constant in Hartee>
+<Potential Energy Coefficient in Hartree>

@@ -1,0 +1,21 @@
+./Basis_Sets/n2_L6_P.dat
+./Geometries/n2_z.dat
+./Parameters/test_params.dat
+./Fields/guass_10.dat
+../Propegate/Gamma_t/Guassian/Eigenvalues/L6_t10/out
+../Propegate/Gamma_t/Guassian/Eigenvectors/L6_t10/out
+
+
+
+
+
+
+
+FILE FORMAT
+---------------------------
+<Many Particle Basis Set Filename>
+<Gemotries Filename>
+<System paramters Filename> 
+<Field Filename>
+<Eigenvalue output path>
+<Eigenvector output path>
